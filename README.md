@@ -1,5 +1,5 @@
 Simpra | سيمبرا
-
+ 
 A digital marketing project to help the Simpra brand grow its digital presence through creative content and targeted campaigns, building awareness and driving sales while highlighting the brand’s stylish, high-quality basics.
 
 Project Idea
