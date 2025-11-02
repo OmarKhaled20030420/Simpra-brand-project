@@ -36,7 +36,9 @@ Omar Khaled Mahmoud Osman
 ________________________________________
 
 Work Plan
+
 Phase 1: 
+
 Research & Strategy
 
 Market & Competitor Analysis
@@ -49,6 +51,7 @@ Content Strategy Development
 
 
 Phase 2: 
+
 Identity & Content Creation
 
 Visual Identity Design (Colors, Typography)
@@ -61,6 +64,7 @@ Content Calendar Preparation
 
 
 Phase 3: 
+
 Campaign Execution
 
 Social Media Management (Facebook, Instagram, TikTok)
@@ -71,6 +75,7 @@ Influencer Outreach
 
 
 Phase 4: 
+
 Tracking & Optimization
 
 Campaign Performance Tracking (Ads Manager)
@@ -84,6 +89,7 @@ Final Reporting & Optimization
 ________________________________________
 
 Roles & Responsibilities
+
 Saeid Nasser (Team Leader)
 
 Primary: Overall Strategy, Objectives, Final Presentation
@@ -119,7 +125,9 @@ Primary: Research & Buyer Personas, Photoshoot
 Secondary: Influencer Outreach, Content Assistance
 
 Instructor
+
 Dr. Ahmed Gamal
 
 Project Files
+
 You can find the full project files here: https://drive.google.com/drive/folders/1GK64l2SW914UwBfn5Cd6683XKcd5FnvL
