@@ -90,43 +90,47 @@ ________________________________________
 
 Roles & Responsibilities
 
-Saeid Nasser (Team Leader)
+Saeid Nasser (Team Leader):
 
 Primary: Overall Strategy, Objectives, Final Presentation
 
 Secondary: Ad Campaign Review, Client Communication
 
 
-Ahmed Hosseiny
+Ahmed Hosseiny:
 
 Primary: Paid Ads Campaigns Setup & Management (Media Buying)
 
 Secondary: Competitor Analysis, Reporting
 
 
-Youssef Alsayed
+Youssef Alsayed:
 
 Primary: Content Calendar, Copywriting
 
 Secondary: Community Management
 
 
-Mohamed Hatem
+Mohamed Hatem:
 
 Primary: Visual Identity & Graphic Design
 
 Secondary: Moodboard, Ad Creatives
 
 
-Omar Khaled
+Omar Khaled:
 
 Primary: Research & Buyer Personas, Photoshoot
 
 Secondary: Influencer Outreach, Content Assistance
 
+________________________________________
+
 Instructor
 
 Dr. Ahmed Gamal
+
+________________________________________
 
 Project Files
 
